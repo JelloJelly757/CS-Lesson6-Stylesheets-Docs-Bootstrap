@@ -6,8 +6,9 @@ body {
     padding: 0;
   }
   
+
   header {
-    background-color: #4caf50;
+    background-color: #97885f;
     color: white;
     padding: 10px;
     text-align: center;
@@ -28,7 +29,7 @@ body {
   }
   
   h1, h2 {
-    color: #555;
+    color: #000000;
   }
   
   ul {
@@ -36,7 +37,7 @@ body {
   }
   
   footer {
-    background-color: #eee;
+    background-color: #d4d4d4;
     padding: 10px;
     text-align: center;
   }
@@ -50,7 +51,7 @@ body {
     max-width: 600px;
     display: block;
     margin: 10px auto;
-    border: 5px solid #4caf50;
+    border: 5px solid #97885f;
     border-radius: 10px;
   }
   
